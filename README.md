@@ -7,14 +7,14 @@
 - 🔭 I’m currently working on:
 
   - Legal NLP
-  
-  - [RealPython](https://github.com/realpython)
-  
-  - [Stan](https://github.com/stan-dev/stan)
  
   - C++
   
   - Functional programming
+  
+  - [RealPython](https://github.com/realpython)
+  
+  - [Stan](https://github.com/stan-dev/stan)
   
 - 🌱 I’m currently learning:
   
@@ -47,6 +47,10 @@
   - How to fix your Python PATH
   
   - My favorite conferences and collaborations
+  
+  - Cool data structures
+  
+  - [Queer uses](http://www.hep.fsu.edu/~wahl/phy5846/statistics/jaynes/pdf/cc05e.pdf) for probability theory
   
 - 📫 How to reach me:
 
