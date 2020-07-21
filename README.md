@@ -9,6 +9,11 @@
   - [RealPython](https://github.com/realpython)
   
   - [Stan](https://github.com/stan-dev/stan)
+ 
+  - C++
+  
+  - Functional programming
+  
 - 🌱 I’m currently learning:
   
   - [Mathematical Foundations of Computing](http://web.stanford.edu/class/cs103/)
