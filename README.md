@@ -5,6 +5,8 @@
 -->
 
 - 🔭 I’m currently working on:
+
+  - Legal NLP
   
   - [RealPython](https://github.com/realpython)
   
