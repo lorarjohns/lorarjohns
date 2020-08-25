@@ -13,7 +13,7 @@
   
   - C++
   
-  - Rust ::crab:: 
+  - Rust :crab:
   
   - [Stan](https://github.com/stan-dev/stan)
   
