@@ -5,24 +5,25 @@
 -->
 
 - 🔭 I’m currently working on:
-
-  - Legal NLP
+  - [Bloomberg's Data License Team](https://www.bloomberg.com/professional/product/data-license/)
  
-  - C++
   
+- 🌱 I’m currently learning/researching:
   - Functional programming
   
-  - [RealPython](https://github.com/realpython)
+  - C++
+  
+  - Rust ::crab:: 
   
   - [Stan](https://github.com/stan-dev/stan)
-  
-- 🌱 I’m currently learning:
   
   - [Mathematical Foundations of Computing](http://web.stanford.edu/class/cs103/)
   
   - [Programming Abstractions](https://web.stanford.edu/class/cs106b/)
 
 - 👯 I’m looking to collaborate on:
+
+  - Legal NLP
   
   - [Pytorch](https://github.com/pytorch) projects
   
@@ -43,12 +44,10 @@
   - The oddest information retrieval algorithms I've used in production
   
   - The weirdest thing my neural machine translation model ever said
-  
-  - How to fix your Python PATH
-  
+    
   - My favorite conferences and collaborations
   
-  - Cool data structures
+  - Helping you out with your job search
   
   - [Queer uses](http://www.hep.fsu.edu/~wahl/phy5846/statistics/jaynes/pdf/cc05e.pdf) for probability theory
   
