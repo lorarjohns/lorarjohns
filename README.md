@@ -7,6 +7,10 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lorarjohns.lorarjohns)
 
+
+<!-- [![Ray's github stats](https://github-readme-stats.vercel.app/api?username=lorarjohns)]() -->
+
+
 - 🔭 I’m currently working on:
 
   - [Bloomberg's Data License Team](https://www.bloomberg.com/professional/product/data-license/)
