@@ -28,3 +28,5 @@
 - ⚡ Fun fact:
   
   - I have had tea with Ruth Bader Ginsburg.
+
+[![Ray Johns' StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11500447)](https://stackoverflow.com/users/11500447/ray-johns)
